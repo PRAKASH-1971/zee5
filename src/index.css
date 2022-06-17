@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+}
+.Home{
+  width: 100%;
+  height: fit-content;
+  background-color: rgb(15,6,23);
+}
+
+.caraseoul{
+  margin: 20px auto;
+  width: 80%;
+}
+.watch-button{
+  padding: 8px 15px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  font-weight: 600;
+}
+.watch-button:hover{
+  background-color: white;
+  color: black;
+}
+.buy-button{
+  border: none;
+  margin: 0px 20px;
+}
